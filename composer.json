@@ -1,0 +1,12 @@
+{
+    "name": "stagiaire/slim",
+    "description": "PHP Slim",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Richard",
+            "email": "richard.lacarriere@gmail.com"
+        }
+    ],
+    "require": {}
+}
